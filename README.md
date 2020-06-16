@@ -1,10 +1,15 @@
-# Auto Clicker
-Automatically clicks the mouse for you.
+# Auto Clicker & Typer
+This project is outdated and was built 4-5 years ago. It has been uploaded as part of open sourcing most of my personal projects from the past 5 years of development.
+
+I believe the original clone was this project, however my version has been modified to add more features.
+https://github.com/Sigmanor/AutoClicker/tree/master/AutoClicker
 
 # Features
-- Click where the cursor is, a specfied point, inside a box or just somewhere on the screen.
-- Change interval or choose a random interval range.
+- The ability to click in a random sections of the screen as well as fixed
+- Random interval range between actions.
+- Save and load scripts.
 - Left, Right, and MIDDLE clicks. Double click supported.
-- Continue until stopped or after a number of clicks.
-- Hotkey support with almost every key + Shift, Control, and Alt modifiers.
-- Costs less than what I cloned.
+- Typing supported.
+- Continue until stopped or after a number of actions.
+- Hotkey Support
+- Process selecting (Not sure if it works)
